@@ -299,7 +299,7 @@ CircleAudioPlayer.prototype = {
 
 // now init one as an example
 var cap = new CircleAudioPlayer({
-	audio: 'js/websiteSong.m4a',
+	audio: 'websiteSong.m4a',
   size: 120,
   borderWidth: 4
 });
