@@ -298,7 +298,7 @@ CircleAudioPlayer.prototype = {
 
 // now init one as an example
 var cap = new CircleAudioPlayer({
-	audio: 'file:///Users/jlozano/Downloads/radios/js/testOdesza.m4a',
+	audio: url('js/websiteSong.m4a'),
   size: 120,
   borderWidth: 4
 });
