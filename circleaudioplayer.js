@@ -296,10 +296,9 @@ CircleAudioPlayer.prototype = {
 };
 
 
-
 // now init one as an example
 var cap = new CircleAudioPlayer({
-	audio: 'js/websiteSong.m4a',
+	audio: 'http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3',
   size: 120,
   borderWidth: 4
 });
